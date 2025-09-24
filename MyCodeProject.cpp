@@ -155,4 +155,6 @@ int main() {
     int Number = ReadNumber("How Many Rounds 1 to 10 ? ");
     int valuePl = 0, ValueCom = 0;
     ResultFinal(Number, valuePl, ValueCom);
+
+    //finish
 }
